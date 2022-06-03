@@ -26,7 +26,8 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="J.Crew"
-              description="J.Crew Group is an American multi-brand, multi-channel, specialty retailer company which offers an assortment of women's, men's, and children's apparel and accessories."
+              description="J.Crew Group is an American multi-brand, multi-channel, specialty retailer company which offers an assortment of women's, men's, and children's apparel and accessories.
+              Tech Stack used - HTML, CSS, Javascript, React, Redux"
               link="https://github.com/yash-2507/J.Crew-Clone"
             />
           </Col>
@@ -36,7 +37,8 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Fitmeals"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="Fitmeals is an Indian e-commerce food website which consists Healthy Food and Nutrition WordPress Theme created especially for Food Delivery, Healthy Food, Fitness Diet, Organic Food Store, Courier Service Nutritionist, Health Coach, Health Diet, Fitness Meal and Business Lunch Delivery.
+              Tech Stack used - HTML, CSS, Javascript, Bootstrap"
               link="https://github.com/RadhakantaChhatria/Fitmeals"
             />
           </Col>
@@ -46,7 +48,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="PharmEasy"
-              description="PharmEasy is an Indian healthcare website and ecommerce platform for consumers involved in selling online medicines, diagnostics, telehealth, online doctor consultation services, etc."
+              description="PharmEasy is an Indian healthcare website and ecommerce platform for consumers involved in selling online medicines, diagnostics, telehealth, online doctor consultation services, etc.
+              Tech Stack used - HTML, CSS, Javascript, Bootstrap"
               link="https://github.com/thezolooo/PharmEasy"
             />
           </Col>
