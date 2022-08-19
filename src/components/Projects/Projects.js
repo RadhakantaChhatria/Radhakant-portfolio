@@ -59,7 +59,8 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Weather App"
-              description="It is mini app which shows the weather data of the city along with the location of that city in the map "
+              description="It is mini app which shows the weather data of the city along with the location of that city in the map.
+              Tech Stack used -HTML, CSS, Javascript, API "
               link="https://github.com/RadhakantaChhatria/Weather-App"
             />
           </Col>
