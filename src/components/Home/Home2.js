@@ -18,18 +18,22 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              ABOUT <span className="purple"> ME </span> 
             </h1>
+            <br></br>
+            <br></br>
             <p className="home-about-body">
-            I am a full-stack web developer with a specialization in MERN stack.  
-              <br />
-              <br />I am fluent in classics like
+            Aspiring full-stack web developer with a specialization in MERN stack. Fluent in classics like
+              {/* <br /> */}
+              {/* <br /> */}
+               
               <i>
-                <b className="purple"> HTML, CSS and Javascript </b>
+                <b className="purple"> HTML, CSS, Javascript and React. </b>
               </i>
-              <br />
-              <br />
-              Collaborative and team supportive person who is proficient in working with inter-disciplinary teams and executing goal-oriented projects. &nbsp;
+              {/* <br />
+              <br /> */}
+               Collaborative and team supportive person who is proficient in working with inter-disciplinary teams and executing goal-oriented projects. Looking
+forward to make a significant contribution to a IT company through dedicated effort and use of skill set. &nbsp;
               {/* <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
@@ -39,13 +43,13 @@ function Home2() {
               {/* </i> */}
               <br />
               <br />
-              You can contact me on:
-              <br/> <b className="purple">Phone - 7608032705</b> 
+              {/* You can contact me on: */}
+              {/* <br/> <b className="purple">Phone - 7608032705</b>  */}
               <i>
                 <br/>
                 <b className="purple">
                   {" "}
-                  Gmail - 9999radhakant@gmail.com
+                  {/* Gmail - 9999radhakant@gmail.com */}
                 </b>
               </i>
               &nbsp; 
@@ -60,6 +64,10 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
+        <br></br>
+        <br></br>
+        <br></br>
+        
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
